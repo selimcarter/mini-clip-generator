@@ -1,5 +1,6 @@
 streamlit
 openai
 yt_dlp
-moviepy
+moviepy==1.0.3
+imageio
 imageio-ffmpeg
