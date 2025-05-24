@@ -2,4 +2,4 @@ streamlit
 openai
 yt-dlp
 requests
-moviepy
+moviepy.editor
