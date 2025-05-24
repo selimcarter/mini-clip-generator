@@ -3,3 +3,4 @@ openai
 yt-dlp
 requests
 moviepy.editor
+moviepy
