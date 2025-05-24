@@ -1,6 +1,6 @@
 streamlit
 openai
 yt-dlp
-requests
-moviepy.editor
+uuid
 moviepy
+whisper
