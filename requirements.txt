@@ -1,6 +1,5 @@
-streamlit
-openai
-yt-dlp
-uuid
-moviepy
+streamlit==1.25.0
+yt-dlp==2023.10.7
+openai==1.22.0
+moviepy==1.0.3
 whisper
