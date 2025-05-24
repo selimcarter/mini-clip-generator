@@ -2,4 +2,3 @@ streamlit
 openai
 yt_dlp
 whisper
-moviepy
